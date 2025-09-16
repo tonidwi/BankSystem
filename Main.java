@@ -32,6 +32,5 @@ public class Main {
         myBank.checkBalance("123456");
         
 
-
     }
 }
